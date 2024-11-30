@@ -1,2 +1,3 @@
-# face-recognition
-Face recognition in python open cv
+# One_Shot_Learning
+
+## Please refer the document attached to this repo
